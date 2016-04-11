@@ -1,0 +1,4 @@
+this file is used to configure rpc call between client and server.
+it stores the type of data such as stucture and function name which will 
+be used between client and server machine.It sets version name to functions 
+and Program name.  
