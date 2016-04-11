@@ -4,11 +4,15 @@ Bank Application using different Web services in C and Object oriented programmi
 Definition  : Bank Application using Client and Server application using different web service method.
 
 Web Service :
-Network TCP Socket programming(C)  
-Sun ONC RPC Programming(C)
-Java RMI Programming(Java) 
-RMI-IIOP Programming(Java) 
-SOAP Programming 
+1.Network TCP Socket programming(C)  
+
+2.Sun ONC RPC Programming(C)
+
+3.Java RMI Programming(Java) 
+
+4.RMI-IIOP Programming(Java) 
+
+5.SOAP Programming 
 
 Designed , Developed and coded the Client and Server Application using above web service.
 
